@@ -1,0 +1,90 @@
+.links{
+     float:left;
+    color:coral;
+    padding-top: 5px;
+    padding-bottom:5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 20px;
+    border:2px solid #f01c41;
+}
+links:hover{
+    background-image: radial-gradient(#adfffe,#eb92fc,#facdf3);
+    font-size:25px;
+    text-decoration: underline;
+    color:deepskyblue;
+    font-family: cursive;
+}
+.menu{
+    list-style:none;
+    float:right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    z-index: 10;
+    position:fixed;
+   margin-top:0px; 
+    background-color:pink;
+    
+}
+
+#Bio{
+    font-size: 42;
+    text-align: center;
+    padding: 50px;
+    background-image: linear-gradient(#adfffe,#facdf3);
+}
+#reviews{
+    padding: 80px;
+    background-image:linear-gradient(#f2798f,#9ff77c);
+}
+.line{
+    height:6px;
+    color: black;
+    width:70px;
+    margin: 8px auto;
+}
+h1{
+    font-family:cursive;
+    font-size: 35px;
+    color: deeppink;
+}
+#welcome{
+    background-image: linear-gradient(#7ecff7,#b42ded);
+    text-align: center;
+    
+}
+p{
+    font-family: monospace;
+    
+}
+img{
+    border-radius: 50%;
+    width:200px;
+}
+img:hover{
+    border:4px solid black;
+    transform:scale(0.9);
+}
+#ab{
+    font-size: 40px;
+    font-family: monospace;
+    color: darkviolet;
+}
+#inspiration{
+    background-image:linear-gradient(deeppink,darkviolet);
+    padding: 70px;
+}
+#picture{
+    height:450px;
+    width:370px;
+}
+h3{
+    color:red;
+    text-decoration:underline;
+    text-shadow:pink;
+    font-size: 25px;
+}
+    
+    
